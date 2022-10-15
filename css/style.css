@@ -1,1 +1,12 @@
+h2 {
+  font-weight: bolder;
+  text-decoration: underline;
+  color: blue;
+}
 
+h4 {
+  font-family: DejaVu Sans Mono, monospace;
+  font-weight: bolder;
+  text-decoration: underline;
+  color: red;
+}
