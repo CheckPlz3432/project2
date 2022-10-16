@@ -10,7 +10,6 @@ html, body {
   height: 250px;
   object-fit: cover;
   overflow: hidden;
-  float: left;
 }
 
 p {
@@ -18,10 +17,6 @@ p {
   color: black;
   text-align: center;
   font-weight: bold;
-}
-
-.demonslayersidediv {
-  float: right;
 }
 
 h2 {
@@ -49,6 +44,10 @@ div {
   width: 300px;
   border: 10px solid blue;
   float: center;
+}
+
+.demonslayersidediv{
+  float: left;
 }
 
 nav#horznavi ul {
