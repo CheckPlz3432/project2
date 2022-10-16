@@ -23,8 +23,8 @@ div {
 
 nav#horzpage1 ul {
   list-style-type: none;
-  padding: 20;
-  margin: 20;
+  padding: 0;
+  margin: 0;
   overflow: hidden;
 }
 
@@ -40,8 +40,8 @@ nav#horzpage1 ul li a {
   font-weight: bolder;
   text-decoration: none;
   text-align: center;
-  width: 50px;
-  padding: 10px 0px 8px 0px;
+  width: 200px;
+  padding: 20px 0px 16px 0px;
   border-radius: 10px;
   
 }
