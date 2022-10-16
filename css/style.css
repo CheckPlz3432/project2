@@ -24,6 +24,7 @@ h4 {
   font-weight: bolder;
   text-decoration: underline;
   color: red;
+  border: 20px black;
 }
 
 div {
@@ -31,7 +32,7 @@ div {
   border: 15px solid green;
 }
 
-nav#horzpage1 ul {
+nav#horznavi ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
