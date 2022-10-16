@@ -6,8 +6,8 @@ html, body {
 }
 
 .decorpicture {
-  width: 416px;
-  height: 250px;
+  width: 500px;
+  height: 300px;
   object-fit: cover;
   overflow: hidden;
 }
@@ -44,6 +44,10 @@ div {
   width: 300px;
   border: 10px solid blue;
   float: center;
+}
+
+.demonslayersidediv {
+  float: none;
 }
 
 nav#horznavi ul {
