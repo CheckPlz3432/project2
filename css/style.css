@@ -47,7 +47,7 @@ div {
 }
 
 .demonslayersidediv {
-  width: max-width;
+  width: auto;
   float: none;
 }
 
