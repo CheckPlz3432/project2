@@ -1,12 +1,22 @@
+p {
+  font-family: Optima, sans-serif;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+
 h2 {
-  font-weight: bolder;
+  font-weight: 900;
   text-decoration: underline;
-  color: blue;
+  color: rgb(255, 242, 0);
+  font-stretch: semi-expanded;
 }
 
 h3 {
   font-weight: bolder;
   text-decoration: underline;
+  font-stretch: expanded;
+  color: rgb(60, 235, 2);
 }
 
 h4 {
@@ -28,12 +38,12 @@ nav#horzpage1 ul {
   overflow: hidden;
 }
 
-nav#horzpage1 ul li {
+nav#horznavi ul li {
   float: left;
   margin: 0 10px;
 }
 
-nav#horzpage1 ul li a {
+nav#horznavi ul li a {
   display: block;
   background-color: rgb(70, 28, 255);
   color: white;
@@ -46,7 +56,7 @@ nav#horzpage1 ul li a {
   
 }
 
-nav#horzpage1 ul li a:hover {
+nav#horznavi ul li a:hover {
   background-color: black;
   color: white;
   border-radius: 40px;
