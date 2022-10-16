@@ -23,11 +23,14 @@ h2 {
   font-weight: 900;
   text-decoration: none;
   color: rgb(87, 0, 201);
+  text-align: center;
 }
 
 h3 {
   font-weight: bolder;
   color: rgb(87, 0, 201);
+  border: 5px;
+  border-color: rgb(87, 0, 201);
 }
 
 h4 {
