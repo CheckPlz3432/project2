@@ -51,8 +51,9 @@ nav#horznavi ul {
 }
 
 nav#horznavi ul li {
-  float: center;
+  float: left;
   margin: 0 10px;
+  text-align: center;
 }
 
 nav#horznavi ul li a {
