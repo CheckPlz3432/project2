@@ -52,8 +52,7 @@ nav#horznavi ul {
 
 nav#horznavi ul li {
   float: left;
-  margin: 0 10px;
-  text-align: center;
+  margin: 0 15px;
 }
 
 nav#horznavi ul li a {
@@ -63,9 +62,9 @@ nav#horznavi ul li a {
   font-weight: bolder;
   text-decoration: none;
   text-align: center;
-  width: 200px;
+  width: 100px;
   padding: 10px 0px 8px 0px;
-  border-radius: 10px;
+  border-radius: 4px;
   
 }
 
