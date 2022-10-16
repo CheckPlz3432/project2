@@ -5,6 +5,11 @@ html, body {
   background-position: center;
 }
 
+.decorpicture {
+  width: 500;
+  height: 300;
+}
+
 p {
   font-family: Optima, sans-serif;
   color: black;
