@@ -48,6 +48,7 @@ div {
 
 .demonslayersidediv {
   width: auto;
+  border: 500px solid blue;
   float: none;
 }
 
