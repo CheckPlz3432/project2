@@ -20,3 +20,34 @@ div {
   width: 100px;
   border: 15px solid green;
 }
+
+nav#horzpage1 ul {
+  list-style-type: none;
+  padding: 20;
+  margin: 20;
+  overflow: hidden;
+}
+
+nav#horzpage1 ul li {
+  float: center;
+  margin: 0 100px;
+}
+
+nav#horzpage1 ul li a {
+  display: block;
+  background-color: rgb(70, 28, 255);
+  color: white;
+  font-weight: bolder;
+  text-decoration: none;
+  text-align: center;
+  width: 50px;
+  padding: 10px 0px 8px 0px;
+  border-radius: 10px;
+  
+}
+
+nav#horzpage1 ul li a:hover {
+  background-color: black;
+  color: white;
+  border-radius: 40px;
+}
