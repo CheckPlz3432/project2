@@ -1,7 +1,6 @@
 html, body {
   background-image: url("../Images/pixelcloudpic.webp");
-  width: 70%;
-  height: 70%;
+  height: fit-content;
   background-size: cover;
   background-position: center;
 }
