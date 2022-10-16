@@ -6,10 +6,11 @@ html, body {
 }
 
 .decorpicture {
-  width: 500px;
-  height: 300px;
+  width: 416px;
+  height: 250px;
   object-fit: cover;
   overflow: hidden;
+  float: left;
 }
 
 p {
@@ -17,6 +18,10 @@ p {
   color: black;
   text-align: center;
   font-weight: bold;
+}
+
+.demonslayersidediv {
+  float: right;
 }
 
 h2 {
