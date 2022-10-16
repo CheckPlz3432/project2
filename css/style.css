@@ -1,3 +1,10 @@
+html, body {
+  background-image: url("../Images/pixelcloudpic.webp");
+  height: fit-content;
+  background-size: cover;
+  background-position: center;
+}
+
 p {
   font-family: Optima, sans-serif;
   color: black;
@@ -7,29 +14,25 @@ p {
 
 h2 {
   font-weight: 900;
-  text-decoration: underline;
+  text-decoration: none;
   color: rgb(255, 242, 0);
-  font-stretch: semi-expanded;
 }
 
 h3 {
   font-weight: bolder;
-  text-decoration: underline;
-  font-stretch: expanded;
   color: rgb(60, 235, 2);
 }
 
 h4 {
   font-family: DejaVu Sans Mono, monospace;
   font-weight: bolder;
-  text-decoration: underline;
+  text-decoration: none;
   color: red;
-  border: 20px black;
 }
 
 div {
-  width: 100px;
-  border: 15px solid green;
+  width: 300px;
+  border: 20px solid blue;
 }
 
 nav#horznavi ul {
