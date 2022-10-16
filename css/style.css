@@ -6,13 +6,13 @@ html, body {
 }
 
 .decorpicture {
-  width: 500;
-  height: 300;
+  width: 500px;
+  height: 300px;
   object-fit: cover;
   overflow: hidden;
 }
 
-p, li {
+p {
   font-family: Optima, sans-serif;
   color: black;
   text-align: center;
