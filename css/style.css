@@ -12,6 +12,13 @@ html, body {
   overflow: hidden;
 }
 
+h1 {
+  text-align: center;
+  color: black;
+  font-family: Verdana, sans-serif;
+  text-weight: 8;
+  font-size: 1.5em;
+
 p {
   font-family: Optima, sans-serif;
   color: black;
