@@ -36,6 +36,7 @@ h2 {
   text-decoration: none;
   color: rgb(87, 0, 201);
   text-align: center;
+  font-family: Verdana, sans-serif;
 }
 
 h3 {
@@ -43,6 +44,7 @@ h3 {
   color: rgb(87, 0, 201);
   border: 5px solid blue;
   border-color: rgb(87, 0, 201);
+  font-family: Verdana, sans-serif;
 }
 
 h4 {
@@ -51,6 +53,10 @@ h4 {
   font-weight: bolder;
   text-decoration: none;
   color: red;
+}
+
+li {
+  font-family: DejaVu Sans Mono, monospace;
 }
 
 div {
