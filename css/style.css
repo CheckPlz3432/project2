@@ -69,34 +69,3 @@ div {
   border: 10px solid blue;
   float: center;
 }
-
-nav#horznavi ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  overflow: hidden;
-}
-
-nav#horznavi ul li {
-  float: left;
-  margin: 0 150em;
-}
-
-nav#horznavi ul li a {
-  display: block;
-  background-color: rgb(70, 28, 255);
-  color: white;
-  font-weight: bolder;
-  text-decoration: none;
-  text-align: center;
-  width: 1.2em;
-  padding: 10px 0px 8px 0px;
-  border-radius: 4px;
-  
-}
-
-nav#horznavi ul li a:hover {
-  background-color: black;
-  color: white;
-  border-radius: 40px;
-}
