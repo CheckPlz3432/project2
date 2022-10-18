@@ -70,8 +70,11 @@ div {
   float: center;
 }
 
-nav#horznavi {
-  position: absolute;
+#nav-container {
+  right: 50%;
+  left: 50%;
+  width: 100%;
+  position: relative;
 }
 
 nav#horznavi ul {
@@ -82,8 +85,9 @@ nav#horznavi ul {
 }
 
 nav#horznavi ul li {
+  position: relative;
   float: left;
-  margin: 1.2em 1.5em;
+  margin: 10em 15em;
 }
 
 nav#horznavi ul li a {
