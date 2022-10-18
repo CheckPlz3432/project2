@@ -70,18 +70,32 @@ div {
   float: center;
 }
 
-#horznavi ul {
+nav#horznavi {
+  background-color: rgb(70, 28, 255);
+}
+
+nav#horznavi ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
 }
 
-#horznavi ul li {
+nav#horznavi ul li {
   float: left;
 }
 
-#horznavi ul li a {
+nav#horznavi ul li a {
   display: block;
+  padding: 20px;
+  font-size: 1.2em;
+  color: #fff;
+  font-weight: bolder;
   text-decoration: none;
-  clear: left;
+}
+
+nav#horznavi ul li a:hover {
+  background-color: black;
+  color: yellow;
+  border-radius: 40px;
 }
