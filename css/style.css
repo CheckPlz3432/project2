@@ -23,16 +23,9 @@ html, body {
 h1 {
   text-align: center;
   color: black;
-  font-family: Verdana, sans-serif;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
   text-weight: 8;
   font-size: 1.5em;
-}
-
-p {
-  font-family: Optima, sans-serif;
-  color: black;
-  text-align: center;
-  font-weight: bold;
 }
 
 h2 {
@@ -40,8 +33,15 @@ h2 {
   text-decoration: none;
   color: rgb(87, 0, 201);
   text-align: center;
-  font-family: Verdana, sans-serif;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
   font-size: 0.95em;
+}
+
+p {
+  font-family: Optima, sans-serif;
+  color: black;
+  text-align: center;
+  font-weight: bold;
 }
 
 h3 {
