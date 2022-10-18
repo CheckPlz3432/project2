@@ -5,7 +5,7 @@ html, body {
   background-position: center;
 }
 
-.demonslayerpic {
+#demonslayerpic {
   background-image: url("../Images/tanjiropatternpic.webp");
 }
 
