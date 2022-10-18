@@ -69,3 +69,19 @@ div {
   border: 10px solid blue;
   float: center;
 }
+
+#horznavi ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#horznavi ul li {
+  float: left;
+}
+
+#horznavi ul li a {
+  display: block;
+  text-decoration: none;
+  clear: left;
+}
