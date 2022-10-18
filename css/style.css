@@ -20,12 +20,18 @@ html, body {
   overflow: hidden;
 }
 
+#onepiecepicture {
+  width: 150%;
+  height: 150%;
+  float: left;
+}
+
 h1 {
   text-align: center;
   color: black;
   font-family: 'ZCOOL QingKe HuangYou', cursive;
   text-weight: 8;
-  font-size: 1.5em;
+  font-size: 2em;
 }
 
 h2 {
@@ -34,7 +40,7 @@ h2 {
   color: rgb(87, 0, 201);
   text-align: center;
   font-family: 'ZCOOL QingKe HuangYou', cursive;
-  font-size: 0.95em;
+  font-size: 1em;
 }
 
 p {
