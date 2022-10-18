@@ -78,7 +78,7 @@ nav#horznavi ul {
 }
 
 nav#horznavi ul li {
-  float: left;
+  float: center;
   margin: 0 15px;
 }
 
