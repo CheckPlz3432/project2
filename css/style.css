@@ -41,7 +41,7 @@ html, body {
   float: left;
 }
 
-iframe {
+#hakivideo {
   display: block;
   margin-left: auto;
   margin-right: auto;
