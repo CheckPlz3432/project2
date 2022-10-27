@@ -49,11 +49,6 @@ li {
   font-family: DejaVu Sans Mono, monospace;
 }
 
-div {
-  width: 50%;
-  border: 10px solid white;
-}
-
 #demonslayerpic {
   background-image: url("../Images/tanjiropatternpic.webp");
 }
@@ -79,6 +74,7 @@ div {
   width: 110%;
   border: none;
   padding: 10px;
+  text-align: center;
 }
 
 .demonslayertext {
