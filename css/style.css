@@ -50,8 +50,8 @@ li {
 }
 
 div {
-  width: 110%;
-  border: none;
+  width: 50%;
+  border: 10px solid white;
 }
 
 #demonslayerpic {
@@ -73,11 +73,11 @@ div {
   padding: 10px;
 }
 
-.demonslayerpicsdiv {
+.alldemonslayerpics {
   display: block;
   margin: auto;
-  border: none;
   width: 110%;
+  border: none;
   padding: 10px;
 }
 
