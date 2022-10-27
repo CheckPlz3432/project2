@@ -49,10 +49,6 @@ li {
   font-family: DejaVu Sans Mono, monospace;
 }
 
-#demonslayerpic {
-  background-image: url("../Images/tanjiropatternpic.webp");
-}
-
 #resumepic {
   display: block;
   margin-left: auto;
@@ -68,13 +64,12 @@ li {
   padding: 10px;
 }
 
-.alldemonslayerpics {
+#squaredemonslayer {
   display: block;
   margin: auto;
   width: 110%;
   border: none;
   padding: 10px;
-  text-align: center;
 }
 
 .demonslayertext {
