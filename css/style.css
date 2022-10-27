@@ -67,9 +67,9 @@ li {
 #squaredemonslayer {
   display: block;
   margin: auto;
-  width: 110%;
   border: none;
   padding: 10px;
+  width: 80%;
 }
 
 .demonslayertext {
