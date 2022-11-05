@@ -98,17 +98,28 @@ li {
   width: 45%;
 }
 
+#horznavi {
+  overflow: hidden;
+}
+
 .container {
   width: 960px;
   margin: 0 auto;
   overflow: hidden;
+}
+
+#horznavi-container {
+  width: 100%
+  position: relative;
+  text-align: center;
 }
     
 #horznavi ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  display: inline-block;
+  vertical-align: top;
 }
 
 #horznavi ul li {
@@ -118,8 +129,8 @@ li {
 
 #horznavi ul li a {
   display: block;
-  background-color: red;
-  color: #fff;
+  background-color: green;
+  color: black;
   font-weight: bolder;
   text-decoration: none;
   text-align: center;
