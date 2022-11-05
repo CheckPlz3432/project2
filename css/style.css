@@ -129,7 +129,7 @@ li {
 
 #horznavi ul li a {
   display: block;
-  background-color: green;
+  background-color: purple;
   color: black;
   font-weight: bolder;
   text-decoration: none;
@@ -144,4 +144,8 @@ li {
   background-color: black;
   color: yellow;
   border-radius: 20px;
+}
+
+#horznavi #onpage {
+  text-decoration: underline;
 }
