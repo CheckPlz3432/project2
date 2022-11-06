@@ -8,8 +8,7 @@ html, body {
 
 #onepiecepatternback {
   background-image: url("../images/oldwavepattern.webp");
-  height: 110%;
-  width: 120%;
+  height: 300%;
   background-size: cover;
   background-position: center;
 }
