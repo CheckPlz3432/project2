@@ -113,6 +113,12 @@ li {
   float: left;
 }
 
+.rightsideoppicture {
+  width: 30%;
+  height: 30%;
+  float: right;
+}
+
 #hakivideo {
   display: block;
   margin-left: auto;
