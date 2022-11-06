@@ -5,6 +5,14 @@ html, body {
   background-position: center;
 }
 
+#demonslayerpatternback {
+  background-image: url("../images/tanjiropatternpic.webp");
+  height: 110%;
+  width: 120%;
+  background-size: cover;
+  background-position: center;
+}
+
 h1 {
   text-align: center;
   color: black;
