@@ -6,7 +6,7 @@ html, body {
   margin: auto;
 }
 
-#onepiecepatternback {
+.onepiecepatternback {
   background-image: url("../images/oldwavepattern.webp");
   height: 300%;
   background-size: cover;
