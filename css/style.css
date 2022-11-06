@@ -3,6 +3,7 @@ html, body {
   height: fit-content;
   background-size: cover;
   background-position: center;
+  margin: auto;
 }
 
 #demonslayerpatternback {
