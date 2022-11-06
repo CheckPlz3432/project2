@@ -193,7 +193,7 @@ li {
 }
 
 #fixed-wrapper {
-  width: 960px;
+  width: 1000px;
   margin: 0 auto;
   outline: #ff7900 2px dashed;
 }
@@ -207,7 +207,7 @@ li {
 
 #fixed-extras {
   float: left;
-  width: 25%;
-  margin: 0 5% 0 0;
+  width: 30%;
+  margin: 0 1% 0 0;
   outline: 2px dashed #dd0009;
 }
