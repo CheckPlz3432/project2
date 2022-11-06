@@ -6,6 +6,14 @@ html, body {
   margin: auto;
 }
 
+#onepiecepatternback {
+  background-image: url("../images/oldwavepattern.webp");
+  height: 110%;
+  width: 120%;
+  background-size: cover;
+  background-position: center;
+}
+
 #demonslayerpatternback {
   background-image: url("../images/tanjiropatternpic.webp");
   height: 110%;
