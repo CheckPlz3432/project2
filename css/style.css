@@ -117,7 +117,7 @@ li {
   background-color: #ffa1f6;
   margin: 2.5% 0 2.5% 0;
   width: 80%;
-  border: 6px;
+  border: 6px solid white;
   border-color: black;
   border-radius: 10px;
   padding: 10px;
@@ -127,10 +127,10 @@ li {
   background-color: #b3ffad;
   margin: 2.5% 0 2.5% 0;
   width: 80%;
-  border: 6px;
+  border: 6px solid white;
   border-color: black;
-  border-radius: 20px;
-  padding: 20px;
+  border-radius: 10px;
+  padding: 10px;
 }
 
 .decorpicture {
