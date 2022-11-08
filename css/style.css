@@ -164,6 +164,13 @@ li {
   float: left;
 }
 
+.zenitsupicture {
+  width: 75%;
+  height: 75%;
+  display: block;
+  float: inherit;
+}
+
 .rightsideoppicture {
   width: 55%;
   height: 20%;
