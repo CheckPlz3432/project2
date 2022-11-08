@@ -238,7 +238,7 @@ li {
 #fluid-main {
   float: left;
   width: 45%
-  margin: 0 2.5%;
+  margin: 0 2.5% 0 0;
 }
 
 #fluid-news {
