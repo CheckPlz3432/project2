@@ -159,13 +159,13 @@ li {
 }
 
 .onepiecepicture {
-  width: 60%;
-  height: 20%;
+  width: 50%;
+  height: 50%;
   float: left;
 }
 
 .rightsideoppicture {
-  width: 60%;
+  width: 55%;
   height: 20%;
   float: right;
 }
