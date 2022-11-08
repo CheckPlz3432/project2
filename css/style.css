@@ -8,14 +8,14 @@ html, body {
 
 .onepiecepatternback {
   background-image: url("../images/oldwavepattern.webp");
-  height: 110%;
+  height: 120%;
   background-size: cover;
   background-position: center;
 }
 
 .demonslayerpatternback {
   background-image: url("../images/tanjiropatternpic.webp");
-  height: 110%;
+  height: 130%;
   background-size: cover;
   background-position: center;
 }
