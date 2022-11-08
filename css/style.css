@@ -108,7 +108,7 @@ li {
   padding: 10px;
 }
 
-#onepiecehakidiv {
+.onepiecehakidiv {
   margin: auto;
   width: 70%;
   border: 0px;
@@ -141,7 +141,7 @@ li {
   padding: 10px;
 }
 
-#onepiecebackboxcolor {
+.onepiecebackboxcolor {
   background-color: #b3ffad;
   margin: 2.5% 0 2.5% 0;
   width: 80%;
