@@ -232,27 +232,23 @@ li {
 #first-fixed-wrapper {
   width: 1000px;
   margin: 0 auto;
-  outline: #ff7900 2px dashed;
 }
 
 #second-fixed-wrapper {
   width: 1000px;
   margin: 0 auto;
-  outline: #ff7900 2px dashed;
 }
 
 #fixed-main {
   float: left;
   width: 550px;
   margin: 0 20px;
-  outline: 2px dashed #0053ae;
 }
 
 #fixed-extras {
   float: left;
   width: 40%;
   margin: 0 1% 0 0;
-  outline: 2px dashed #dd0009;
 }
 
 #fixed-header {
