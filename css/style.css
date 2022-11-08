@@ -213,14 +213,14 @@ li {
 
 #fixed-main {
   float: left;
-  width: 650px;
+  width: 550px;
   margin: 0 20px;
   outline: 2px dashed #0053ae;
 }
 
 #fixed-extras {
   float: left;
-  width: 30%;
+  width: 40%;
   margin: 0 1% 0 0;
   outline: 2px dashed #dd0009;
 }
