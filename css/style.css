@@ -108,7 +108,8 @@ li {
 }
 
 .demonslayertext {
-  color: white;
+  font-weight: bold;
+  color: black;
 }
 
 #demonslayerbackboxcolor {
