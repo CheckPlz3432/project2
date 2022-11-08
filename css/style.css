@@ -33,12 +33,30 @@ h2 {
   text-decoration: none;
   color: rgb(147, 64, 255);
   font-family: 'ZCOOL QingKe HuangYou', cursive;
-  font-size: 1.8em;
+  font-size: 2em;
   text-align: center;
 }
 
 .hakipagetitle {
   color: #b3ffad;
+}
+
+trentemailanchor {
+  font-weight: 900;
+  text-decoration: none;
+  color: rgb(147, 64, 255);
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 2em;
+  text-align: center;
+}
+
+.demonslayerheadertag {
+  font-weight: 900;
+  text-decoration: none;
+  color: white;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 2em;
+  text-align: center;
 }
 
 p {
