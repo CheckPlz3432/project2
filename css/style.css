@@ -37,8 +37,12 @@ h2 {
   text-decoration: none;
   color: rgb(147, 64, 255);
   font-family: 'ZCOOL QingKe HuangYou', cursive;
-  font-size: 1.5em;
+  font-size: 1.8em;
   text-align: center;
+}
+
+.hakipagetitle {
+  color: #b3ffad;
 }
 
 p {
