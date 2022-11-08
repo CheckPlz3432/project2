@@ -20,10 +20,6 @@ html, body {
   background-position: center;
 }
 
-#marginfixer {
-  margin: auto;
-}
-
 h1 {
   text-align: center;
   color: white;
@@ -114,6 +110,7 @@ li {
 .demonslayertext {
   font-weight: bold;
   color: black;
+  font-size: 1.2em;
 }
 
 #demonslayerbackboxcolor {
