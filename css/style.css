@@ -131,7 +131,7 @@ li {
   font-size: 1.2em;
 }
 
-#demonslayerbackboxcolor {
+.demonslayerbackboxcolor {
   background-color: #ffa1f6;
   margin: 2.5% 0 2.5% 0;
   width: 80%;
